@@ -1,6 +1,6 @@
 # 🚀 Noxus Tech
 
-Bem-vindo à **Noxus Tech**! Somos uma empresa especializada no desenvolvimento de **sites, lojas virtuais, dashboards e aplicativos** que elevam negócios ao próximo nível. 
+Bem-vindo à **Noxus Tech**! Somos uma empresa especializada no desenvolvimento de **sites, lojas virtuais e dashboards** que elevam negócios ao próximo nível. 
 
 ## 🌟 O que fazemos?
 Criamos soluções digitais sob medida, focadas em performance, design e experiência do usuário. Trabalhamos com tecnologias modernas para entregar produtos robustos, escaláveis e inovadores.
